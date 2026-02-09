@@ -1,1 +1,1 @@
-# EDUC5006_ass2_math_website
+# Curtin University EDUC5006 ass2 website
